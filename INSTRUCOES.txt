@@ -1,0 +1,10 @@
+GUIA PELO CELULAR
+1. Entre em github.com e crie uma conta.
+2. Crie um repositório novo chamado play-e-ganhe e marque Public.
+3. Use Add file > Upload files e envie todos os arquivos e pastas deste ZIP, incluindo .github/workflows/android.yml.
+4. Faça Commit changes.
+5. Abra Actions > Build Play e Ganhe APK > Run workflow.
+6. Quando terminar com marca verde, abra a execução e baixe o arquivo em Artifacts: Play-e-Ganhe-APK.
+7. Extraia o ZIP baixado e instale app-debug.apk no Samsung.
+Se o seletor do Android ocultar a pasta .github, use Chrome em modo computador ou um gerenciador de arquivos que mostre arquivos ocultos.
+Pontos são demonstrativos. Não há saque real nem PayPal integrado.
